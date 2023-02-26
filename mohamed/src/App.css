@@ -1,0 +1,18 @@
+img{
+  width: 400px;
+  height: 400px;
+}
+body{
+  background-color: rgb(175, 172, 172);
+}
+h1{
+  color: beige;
+  
+}
+h2{
+  color: beige;
+}
+.App{
+  text-align: center;
+  margin-top: 50px;
+}
